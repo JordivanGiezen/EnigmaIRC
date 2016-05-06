@@ -1,0 +1,233 @@
+23:17:29 [>>] PASS NOPASS
+23:17:29 [>>] NICK LovelyAelBot
+23:17:29 [>>] USER Enigma - Artificial Intelligence
+23:17:29 [<<] :irc.barafranca.com NOTICE Auth :*** Looking up your hostname...
+23:17:29 [<<] :irc.barafranca.com NOTICE Auth :*** Found your hostname (a85-138-177-193.cpe.netcabo.pt) -- cached
+23:17:29 [<<] :irc.barafranca.com NOTICE Auth :Welcome to Omerta!
+23:17:29 [<<] :irc.barafranca.com 001 LovelyAelBot :Welcome to the Omerta IRC Network LovelyAelBot!Enigma@a85-138-177-193.cpe.netcabo.pt
+23:17:29 [<<] :irc.barafranca.com 002 LovelyAelBot :Your host is irc.barafranca.com, running version InspIRCd-2.0
+23:17:29 [<<] :irc.barafranca.com 003 LovelyAelBot :This server was created 14:16:34 Mar 24 2014
+23:17:29 [<<] :irc.barafranca.com 004 LovelyAelBot irc.barafranca.com InspIRCd-2.0 BHIRSWcdiorswx ABCFHIJLMNOPQRSTXYabcefghijklmnopqrstvyz FHIJLXYabefghjkloqvy
+23:17:29 [<<] :irc.barafranca.com 005 LovelyAelBot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=IXYbeg,k,FHJLfjl,ABCMNOPQRSTcimnprstz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU ESILENCE EXCEPTS=e EXTBAN=,ABCNOQRSTUcjmprz FNC INVEX=I KICKLEN=255 :are supported by this server
+23:17:29 [<<] :irc.barafranca.com 005 LovelyAelBot MAP MAXBANS=60 MAXCHANNELS=60 MAXPARA=32 MAXTARGETS=5 MODES=20 NAMESX NETWORK=Omerta NICKLEN=31 OPERLOG OVERRIDE PREFIX=(yqaohv)!~&@%+ REMOVE :are supported by this server
+23:17:29 [<<] :irc.barafranca.com 005 LovelyAelBot SECURELIST SILENCE=32 SSL=176.31.196.183:6679 STARTTLS STATUSMSG=!~&@%+ TOPICLEN=352 USERIP VBANLIST WALLCHOPS WALLVOICES WATCH=32 :are supported by this server
+23:17:29 [<<] :irc.barafranca.com 042 LovelyAelBot 930AAY8G9 :your unique ID
+23:17:29 [<<] :irc.barafranca.com 375 LovelyAelBot :irc.barafranca.com message of the day
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-   Welcome to the Omerta IRC Network!
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-   ___                      _           ____
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-  / _ \ _ __ ___   ___ _ __| |_ __ _   / ___| __ _ _ __ ___   ___
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :- | | | | '_ ` _ \ / _ \ '__| __/ _` | | |  _ / _` | '_ ` _ \ / _ \
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :- | |_| | | | | | |  __/ |  | || (_| | | |_| | (_| | | | | | |  __/
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-  \___/|_| |_| |_|\___|_|   \__\__,_|  \____|\__,_|_| |_| |_|\___|
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-            _     _           _ _           _
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-           | |   (_)_ __ ___ (_) |_ ___  __| |
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-           | |   | | '_ ` _ \| | __/ _ \/ _` |
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-           | |___| | | | | | | | ||  __/ (_| |
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-           |_____|_|_| |_| |_|_|\__\___|\__,_|
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-       http://www.omertagame.co.uk
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-  ***********************************************************
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-  * Connection information
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-  ***********************************************************
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-  You can use any of the following ports to connect to our network:
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-   6667
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-   8080
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-   +6679 (SSL) - RECOMMENDED
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-   +6697 (SSL) - RECOMMENDED
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-  Your IP will be scanned for Open Proxies, in case you are running one, disable it before entering the server.
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-  ***********************************************************
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-  * Information & Help
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-  ***********************************************************
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-  Our current wiki page is getting an update, you can search help on the old one:
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-   http://wiki.barafranca.com/index.php/IRC/Main_Page
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-   Please type /rules for a complete listing of rules.
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-   General Omerta Help   - #help (add .nl, .pt, etc for version specific help or email feedback@barafranca.com)
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-   General IRC Help      - #help.irc (or email irc@barafranca.com)
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-   Genel ÝRC Yardýmý - #help.irc.tr (yada irc@barafranca.com adresine mail atabilirsiniz)
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-   NickServ:
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-    You can register your nickname by using /ns register <password> <email>
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-    please note that nicknames will be dropped when inactive.
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-  ***********************************************************
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-  * Rules
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-  ***********************************************************
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-   When you join this network there are some basic rules,
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-   you can find these rules by typing /rules
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-   The most elementary rule is:
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-   You are a guest on this network, act like one
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-   Always listen to our crew they are your hosts.
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-  ***********************************************************
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-   * About us
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-   * IRC is run by the following people
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-   ***********************************************************
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-    KCode          - kcode@barafranca.com
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-    Thecainer      - thecainer@barafranca.com
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-    Dontbegmercy   - dontbegmercy@barafranca.com
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-   And the irc crew
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-   ***********************************************************
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-   * Blog updates
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-   * Follow the last updates/announcements about IRC network
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-   ***********************************************************
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-   21 December 2014 - Changes to network: http://omerta.wiki/display/IRC/2014/12/21/Announcing+the+blog+and+network+changes
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-   27 December 2014 - Blacklist service issues: http://omerta.wiki/display/IRC/2014/12/27/Ahbl+discontinued
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-   17 July 2015 - SSL Updates: http://omerta.wiki/display/IRC/2015/06/18/SSL+updates
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-   ***********************************************************
+23:17:29 [<<] :irc.barafranca.com 372 LovelyAelBot :-   We hope you enjoy chatting on Omerta IRC and playing Omerta!
+23:17:29 [<<] :irc.barafranca.com 376 LovelyAelBot :End of message of the day.
+23:17:29 [>>] PRIVMSG NickServ :IDENTIFY Tibot CAM90
+23:17:29 [>>] JOIN #InsomniacGoddess
+23:17:29 [>>] JOIN #cartella.member
+23:17:29 [<<] :irc.barafranca.com 251 LovelyAelBot :There are 156 users and 307 invisible on 2 servers
+23:17:29 [<<] :irc.barafranca.com 252 LovelyAelBot 17 :operator(s) online
+23:17:29 [<<] :irc.barafranca.com 254 LovelyAelBot 1528 :channels formed
+23:17:29 [<<] :irc.barafranca.com 255 LovelyAelBot :I have 456 clients and 1 servers
+23:17:29 [<<] :irc.barafranca.com 265 LovelyAelBot :Current Local Users: 456  Max: 895
+23:17:29 [<<] :irc.barafranca.com 266 LovelyAelBot :Current Global Users: 463  Max: 902
+23:17:29 [<<] :irc.barafranca.com 396 LovelyAelBot omerta-1lg9np.cpe.netcabo.pt :is now your displayed host
+23:17:29 [<<] :LovelyAelBot!Enigma@omerta-1lg9np.cpe.netcabo.pt MODE LovelyAelBot +wSIx
+23:17:29 [<<] :InfoServ!InfoServ@services.int NOTICE LovelyAelBot :*** Message(s) of the Day ***
+23:17:29 [<<] :InfoServ!InfoServ@services.int NOTICE LovelyAelBot :[DC Scamming] Notice from Teckna, posted 14:11 on 11/18/2014:
+23:17:29 [<<] :InfoServ!InfoServ@services.int NOTICE LovelyAelBot :Please be adviced that we do not support nor allow the selling of DC's on IRC, please buy them through 'support omerta' or through Obay. If you ignore this warning any transaction is on your own risk and Omerta Game LTD cannot be held responsible.
+23:17:29 [<<] :InfoServ!InfoServ@services.int NOTICE LovelyAelBot :[Secure Omerta] Notice from Teckna, posted 14:10 on 11/18/2014:
+23:17:29 [<<] :InfoServ!InfoServ@services.int NOTICE LovelyAelBot :This server also has SSL (secure connection) available on irc.barafranca.com +6679. More information: http://wiki.barafranca.com/index.php/IRC/HOWTO:Connect_using_SSL - This will make sure your passwords can't be 'sniffed' if you use for example an open wifi. You can also log in secure by using TLS security ingame. change http:// to https:// for a more secure login to Omerta.
+23:17:29 [<<] :InfoServ!InfoServ@services.int NOTICE LovelyAelBot :[Mirc Discount] Notice from Teckna, posted 23:19 on 07/11/2011:
+23:17:29 [<<] :InfoServ!InfoServ@services.int NOTICE LovelyAelBot :If you want to buy mIRC because your trial is finished and want a discount, the following url will allow you to buy mirc for $10 http://www.mirc.com/register.php?coupon=MIRC-SWV0-MNKL
+23:17:29 [<<] :InfoServ!InfoServ@services.int NOTICE LovelyAelBot :*** End of Message(s) of the Day ***
+23:17:29 [<<] :NickServ!NickServ@services.barafranca NOTICE LovelyAelBot :Welcome to Omerta, LovelyAelBot! Here on Omerta, we provide services to enable the registration of nicknames and channels! For details, type /msg NickServ help and /msg ChanServ help.
+23:17:29 [<<] :NickServ!NickServ@services.barafranca NOTICE LovelyAelBot :Tibot is not a registered nickname.
+23:17:29 [<<] :LovelyAelBot!Enigma@omerta-1lg9np.cpe.netcabo.pt JOIN :#InsomniacGoddess
+23:17:29 [>>] WHO #InsomniacGoddess
+23:17:29 [<<] :irc.barafranca.com 353 LovelyAelBot @ #InsomniacGoddess :~Miller`Mobile LovelyAelBot ~Miller`away @ChanServ ~Aelandra
+23:17:29 [<<] :irc.barafranca.com 366 LovelyAelBot #InsomniacGoddess :End of /NAMES list.
+23:17:29 [<<] :irc.barafranca.com 473 LovelyAelBot #cartella.member :Cannot join channel (Invite only)
+23:17:29 [>>] PRIVMSG ChanServ :INVITE #cartella.member
+23:17:29 [>>] JOIN #cartella.member
+23:17:29 [<<] :irc.barafranca.com 352 LovelyAelBot #InsomniacGoddess AndChat6298 Miller.users.omerta irc.barafranca.com Miller`Mobile H~ :0 AndChat629844
+23:17:29 [<<] :irc.barafranca.com 352 LovelyAelBot #InsomniacGoddess Enigma omerta-1lg9np.cpe.netcabo.pt irc.barafranca.com LovelyAelBot H :0 Intelligence
+23:17:29 [<<] :irc.barafranca.com 352 LovelyAelBot #InsomniacGoddess Miller Miller.users.omerta irc.barafranca.com Miller`away G~ :0 TraScript user
+23:17:29 [<<] :irc.barafranca.com 352 LovelyAelBot #InsomniacGoddess ChanServ services.barafranca irc.barafranca.com ChanServ H*@ :0 Channel Services
+23:17:29 [<<] :irc.barafranca.com 352 LovelyAelBot #InsomniacGoddess TraScript Aelandra.users.omerta irc.barafranca.com Aelandra H~ :0 -
+23:17:29 [<<] :irc.barafranca.com 315 LovelyAelBot #InsomniacGoddess :End of /WHO list.
+23:17:29 [<<] :irc.barafranca.com 473 LovelyAelBot #cartella.member :Cannot join channel (Invite only)
+23:17:29 [>>] PRIVMSG ChanServ :INVITE #cartella.member
+23:17:29 [>>] JOIN #cartella.member
+23:17:30 [<<] :ChanServ!ChanServ@services.barafranca NOTICE LovelyAelBot :You are not authorized to perform this operation.
+23:17:30 [<<] :ChanServ!ChanServ@services.barafranca NOTICE LovelyAelBot :You are not authorized to perform this operation.
+23:17:30 [<<] :irc.barafranca.com 473 LovelyAelBot #cartella.member :Cannot join channel (Invite only)
+23:17:30 [>>] PRIVMSG ChanServ :INVITE #cartella.member
+23:17:30 [>>] JOIN #cartella.member
+23:17:30 [<<] :ChanServ!ChanServ@services.barafranca NOTICE LovelyAelBot :You are not authorized to perform this operation.
+23:17:30 [<<] :irc.barafranca.com 473 LovelyAelBot #cartella.member :Cannot join channel (Invite only)
+23:17:30 [>>] PRIVMSG ChanServ :INVITE #cartella.member
+23:17:30 [>>] JOIN #cartella.member
+23:17:31 [<<] :ChanServ!ChanServ@services.barafranca NOTICE LovelyAelBot :You are not authorized to perform this operation.
+23:17:31 [<<] :irc.barafranca.com 473 LovelyAelBot #cartella.member :Cannot join channel (Invite only)
+23:17:31 [>>] PRIVMSG ChanServ :INVITE #cartella.member
+23:17:31 [>>] JOIN #cartella.member
+23:17:31 [<<] :ChanServ!ChanServ@services.barafranca NOTICE LovelyAelBot :You are not authorized to perform this operation.
+23:17:31 [<<] :irc.barafranca.com 473 LovelyAelBot #cartella.member :Cannot join channel (Invite only)
+23:17:31 [>>] PRIVMSG ChanServ :INVITE #cartella.member
+23:17:31 [>>] JOIN #cartella.member
+23:17:31 [<<] :ChanServ!ChanServ@services.barafranca NOTICE LovelyAelBot :You are not authorized to perform this operation.
+23:17:31 [<<] :irc.barafranca.com 473 LovelyAelBot #cartella.member :Cannot join channel (Invite only)
+23:17:31 [>>] PRIVMSG ChanServ :INVITE #cartella.member
+23:17:31 [>>] JOIN #cartella.member
+23:17:31 [<<] :ChanServ!ChanServ@services.barafranca NOTICE LovelyAelBot :You have triggered services flood protection.
+23:17:31 [<<] :ChanServ!ChanServ@services.barafranca NOTICE LovelyAelBot :This is your first offense. You will be ignored for 30 seconds.
+23:17:31 [<<] :irc.barafranca.com 473 LovelyAelBot #cartella.member :Cannot join channel (Invite only)
+23:17:31 [>>] PRIVMSG ChanServ :INVITE #cartella.member
+23:17:31 [>>] JOIN #cartella.member
+23:17:31 [<<] :irc.barafranca.com 473 LovelyAelBot #cartella.member :Cannot join channel (Invite only)
+23:17:31 [>>] PRIVMSG ChanServ :INVITE #cartella.member
+23:17:31 [>>] JOIN #cartella.member
+23:17:31 [<<] :irc.barafranca.com 473 LovelyAelBot #cartella.member :Cannot join channel (Invite only)
+23:17:31 [>>] PRIVMSG ChanServ :INVITE #cartella.member
+23:17:32 [>>] JOIN #cartella.member
+23:17:32 [<<] :irc.barafranca.com 473 LovelyAelBot #cartella.member :Cannot join channel (Invite only)
+23:17:32 [>>] PRIVMSG ChanServ :INVITE #cartella.member
+23:17:32 [>>] JOIN #cartella.member
+23:17:32 [<<] :irc.barafranca.com 473 LovelyAelBot #cartella.member :Cannot join channel (Invite only)
+23:17:32 [>>] PRIVMSG ChanServ :INVITE #cartella.member
+23:17:32 [>>] JOIN #cartella.member
+23:17:32 [<<] :irc.barafranca.com 473 LovelyAelBot #cartella.member :Cannot join channel (Invite only)
+23:17:32 [>>] PRIVMSG ChanServ :INVITE #cartella.member
+23:17:32 [>>] JOIN #cartella.member
+23:17:33 [<<] :irc.barafranca.com 473 LovelyAelBot #cartella.member :Cannot join channel (Invite only)
+23:17:33 [>>] PRIVMSG ChanServ :INVITE #cartella.member
+23:17:33 [>>] JOIN #cartella.member
+23:17:33 [<<] :irc.barafranca.com 473 LovelyAelBot #cartella.member :Cannot join channel (Invite only)
+23:17:33 [>>] PRIVMSG ChanServ :INVITE #cartella.member
+23:17:33 [>>] JOIN #cartella.member
+23:17:33 [<<] :Aelandra!TraScript@Aelandra.users.omerta INVITE LovelyAelBot :#cartella.member
+23:17:33 [<<] :LovelyAelBot!Enigma@omerta-1lg9np.cpe.netcabo.pt JOIN :#cartella.member
+23:17:33 [>>] WHO #cartella.member
+23:17:33 [<<] :irc.barafranca.com 332 LovelyAelBot #cartella.member :Welcome sweeties! <3
+23:17:33 [<<] :irc.barafranca.com 333 LovelyAelBot #cartella.member WannabeLissa 1461315514
+23:17:33 [<<] :irc.barafranca.com 353 LovelyAelBot @ #cartella.member :@Giesbeest @[D-b0t] LovelyAelBot @Miller`away @Eve` @ChanServ @Aelandra ~Junona @Acidum
+23:17:33 [<<] :irc.barafranca.com 366 LovelyAelBot #cartella.member :End of /NAMES list.
+23:17:33 [<<] :irc.barafranca.com 352 LovelyAelBot #cartella.member jordi Giesbeest.users.omerta irc.barafranca.com Giesbeest H@ :0 Got ZNC?
+23:17:33 [<<] :irc.barafranca.com 352 LovelyAelBot #cartella.member D-b0t d-bot.users.omerta irc.barafranca.com [D-b0t] H@ :0 [D-BoT Scripting]
+23:17:33 [<<] :irc.barafranca.com 352 LovelyAelBot #cartella.member Enigma omerta-1lg9np.cpe.netcabo.pt irc.barafranca.com LovelyAelBot H :0 Intelligence
+23:17:33 [<<] :irc.barafranca.com 352 LovelyAelBot #cartella.member Miller Miller.users.omerta irc.barafranca.com Miller`away G@ :0 TraScript user
+23:17:33 [<<] :irc.barafranca.com 352 LovelyAelBot #cartella.member Daptar Daptar.users.omerta irc.barafranca.com Eve` H@ :0 ...
+23:17:33 [<<] :irc.barafranca.com 352 LovelyAelBot #cartella.member ChanServ services.barafranca irc.barafranca.com ChanServ H*@ :0 Channel Services
+23:17:33 [<<] :irc.barafranca.com 352 LovelyAelBot #cartella.member TraScript Aelandra.users.omerta irc.barafranca.com Aelandra H@ :0 -
+23:17:33 [<<] :irc.barafranca.com 352 LovelyAelBot #cartella.member Junona Junona.users.omerta irc.barafranca.com Junona H~ :0 Keep it unreal!
+23:17:33 [<<] :irc.barafranca.com 352 LovelyAelBot #cartella.member Acidum Acidum.users.omerta irc.barafranca.com Acidum H@ :0 TraScript user
+23:17:33 [<<] :irc.barafranca.com 315 LovelyAelBot #cartella.member :End of /WHO list.
+23:17:39 [<<] :Aelandra!TraScript@Aelandra.users.omerta MODE #cartella.member +v LovelyAelBot
+23:17:43 [<<] :Aelandra!TraScript@Aelandra.users.omerta PRIVMSG #cartella.member :!bos Eve`
+23:17:43 [>>] PRIVMSG #cartella.member :13,1Aelandra7,1 successfully got 13,1Eve`7,1 out of jail!
+23:17:44 [<<] :Aelandra!TraScript@Aelandra.users.omerta PRIVMSG #cartella.member :woo
+23:17:51 [<<] :Aelandra!TraScript@Aelandra.users.omerta PRIVMSG #cartella.member :that's all I needed you for
+23:17:53 [<<] :Aelandra!TraScript@Aelandra.users.omerta PRIVMSG #cartella.member :oh oh
+23:18:01 [<<] :Aelandra!TraScript@Aelandra.users.omerta PRIVMSG #cartella.member :I see the code I've written
+23:18:03 [<<] :Eve`!Daptar@Daptar.users.omerta PRIVMSG #cartella.member :yeah, mainly due to the 3 player match. where everybody quadrupled what was already in there
+23:18:08 [<<] :Aelandra!TraScript@Aelandra.users.omerta PRIVMSG #cartella.member :it also gives youtube titles!
+23:18:09 [<<] :Aelandra!TraScript@Aelandra.users.omerta PRIVMSG #cartella.member :infinitely useful
+23:18:10 [<<] :Aelandra!TraScript@Aelandra.users.omerta PRIVMSG #cartella.member :let's test it
+23:18:12 [<<] :Eve`!Daptar@Daptar.users.omerta PRIVMSG #cartella.member :nice
+23:18:18 [<<] :Eve`!Daptar@Daptar.users.omerta PRIVMSG #cartella.member :pink and such
+23:18:23 [<<] :Aelandra!TraScript@Aelandra.users.omerta PRIVMSG #cartella.member :https://www.youtube.com/watch?v=JAHA4Jh5jkw
+23:18:24 [>>] PRIVMSG #cartella.member :Youtube: Urge Overkill - Girl You'll Be a Woman Soon
+23:18:32 [<<] :Eve`!Daptar@Daptar.users.omerta PRIVMSG #cartella.member :neat :D
+23:18:37 [<<] :Aelandra!TraScript@Aelandra.users.omerta PRIVMSG #cartella.member :good bot, it works
+23:18:41 [<<] :Aelandra!TraScript@Aelandra.users.omerta PRIVMSG #cartella.member :that's all it takes for it to be a good bot in my book
+23:18:42 [<<] :Eve`!Daptar@Daptar.users.omerta PRIVMSG #cartella.member :good song ;)
+23:19:16 [<<] :Eve`!Daptar@Daptar.users.omerta PRIVMSG #cartella.member :i really hate the feds
+23:19:17 [<<] :Eve`!Daptar@Daptar.users.omerta PRIVMSG #cartella.member :The feds confiscated a stolen Bugatti Type 32 Tank from you
+23:19:32 [<<] :Eve`!Daptar@Daptar.users.omerta PRIVMSG #cartella.member :It's only an hour ago that I used it for the heist
+23:19:47 [<<] :Eve`!Daptar@Daptar.users.omerta PRIVMSG #cartella.member :Forgot to put in back in the safehouse
+23:20:40 [<<] :Aelandra!TraScript@Aelandra.users.omerta PRIVMSG #cartella.member :didn't have many other cars because of the crush?
+23:20:49 [<<] :Aelandra!TraScript@Aelandra.users.omerta PRIVMSG #cartella.member :'cause if you had >50 and it just nails that one specificaally, that's pretty unlucky
+23:21:26 [<<] :Eve`!Daptar@Daptar.users.omerta PRIVMSG #cartella.member :the rest is still with my lackey
+23:21:42 [<<] :Eve`!Daptar@Daptar.users.omerta PRIVMSG #cartella.member :it was the only option apart from steeling from noodles
+23:22:29 [<<] :Aelandra!TraScript@Aelandra.users.omerta PRIVMSG #cartella.member :huh, Google Code's project hosting was shut down
+23:22:41 [<<] :Aelandra!TraScript@Aelandra.users.omerta PRIVMSG #cartella.member :and ah
+23:23:25 [<<] PING :irc.barafranca.com
+23:23:25 [>>] PONG :
+23:25:07 [<<] :Giesbeest!jordi@Giesbeest.users.omerta PRIVMSG #cartella.member :lol
+23:25:12 [<<] :Giesbeest!jordi@Giesbeest.users.omerta PRIVMSG #cartella.member :thats > a year now
+23:28:26 [<<] PING :irc.barafranca.com
+23:28:26 [>>] PONG :
+23:31:40 [<<] :Junona!Junona@Junona.users.omerta QUIT :Quit: 04~<07 TraScript 04>~ 03- By Trace - 04http://trascript.trabot.net
+23:33:27 [<<] PING :irc.barafranca.com
+23:33:27 [>>] PONG :
